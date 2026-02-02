@@ -1,3 +1,3 @@
-# Simple Evolutionary Algorithm
+# Assigment 3.5 for Course "Resolución de problemas con metaheurísticos 25-26"
 
-This is a very simple evolutionary algorithm implementation in Java for didactical purposes. It was created by Francisco Chicano for the course "Evolutionary Algorithms" of the Master in Software Engineering and Artificial Intelligence of the University of Malaga (Spain).
+This code was made as an ampliation of [the code created by Francisco Chicano for the course "Evolutionary Algorithms" of the Master in Software Engineering and Artificial Intelligence of the University of Malaga (Spain)](https://github.com/NEO-Research-Group/SimpleEvolutionaryAlgorithm). This code include the original algorithm plus a 2 additional algorithms: Brute Force and Simulated Annealing. Also, applies all algorithms to the [QUBO problem](https://en.wikipedia.org/wiki/Quadratic_unconstrained_binary_optimization) and implements a code in python to automatize the tests.
