@@ -6,7 +6,9 @@ extraTables/
 *.pdf
 *.png
 *.txt
+!compilation_and_execution.txt
 results*
+SimpleEvolutionaryAlgorithm/LICENSE
 
 # PYTHON
 
