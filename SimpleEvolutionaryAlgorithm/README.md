@@ -1,3 +1,7 @@
-# Simple Evolutionary Algorithm
+# How to compile and execute
 
-This is a very simple evolutionary algorithm implementation in Java for didactical purposes. It was created by Francisco Chicano for the course "Evolutionary Algorithms" of the Master in Software Engineering and Artificial Intelligence of the University of Malaga (Spain).
+This code used Maven to compile. 
+
+Generate a new .jar executable run "mvn clean package" in the root of the code.
+
+To execute the code run "java -jar <jar_path>". The default location of the generate .jar is inside the target directory.
